@@ -15,7 +15,7 @@
 </head>
 <body>
 	<div class="container" ng-app="app">
-		<h1>AngularJS - Spring JPA - MySQL</h1>
+		<h1>Wipro Registration</h1>
 
 		<div class="row">
 			<div ng-controller="postController" class="col-md-3">
